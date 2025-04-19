@@ -17,6 +17,8 @@
 
 [Matpoltlib](https://colab.research.google.com/drive/1_ok4GvRnqur812xC8Ui0FEHODwm9CNZr)
 
+[Numpy](https://colab.research.google.com/drive/1cc8Qo42BRQHeNEZCPlHII3Ru5IozIVll)
+
 
 
 # Python-labs
