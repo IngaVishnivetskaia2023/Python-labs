@@ -34,3 +34,4 @@
 # Python-labs
 
 [Lab: Pandas](https://colab.research.google.com/drive/1POLB2wdSHxvwRRwKhSuvZoZubiEltGUI)
+[Lab 2](https://colab.research.google.com/drive/1mmzD9GldnZfxsfkbv4Q3e0mezbDdtQqH)
