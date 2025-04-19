@@ -15,6 +15,10 @@
 
 [Интерактивные графики: Plotly](https://colab.research.google.com/drive/1hyA-oT5a1PWMaPTxBxUaGvr8A3VKE5KD)
 
+[Matpoltlib](https://colab.research.google.com/drive/1_ok4GvRnqur812xC8Ui0FEHODwm9CNZr)
+
+
+
 # Python-labs
 
 [Lab: Pandas](https://colab.research.google.com/drive/1POLB2wdSHxvwRRwKhSuvZoZubiEltGUI)
