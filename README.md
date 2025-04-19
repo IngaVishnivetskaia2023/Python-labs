@@ -9,6 +9,8 @@
 
 [Метаклассы](https://colab.research.google.com/drive/1b_sXvJ6SWeg_fXQuRZs44E2h47zjt70z)
 
+[Match, try except](https://colab.research.google.com/drive/1Sk-wy1TV9SunvuDUkYUdbf4WAUzJZ7em)
+
 [Colab, области видимости](https://colab.research.google.com/drive/1SjYzNXFeEjBdvcgirSJUvTa28mQR8l53)
 
 [Colab, ООП, классы](https://colab.research.google.com/drive/1-iMzyzxBElsEOtAyW3OmwUs4a8twYH9n)
