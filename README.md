@@ -13,6 +13,8 @@
 
 [Colab, работа с табличными данными, Pandas](https://colab.research.google.com/drive/1tsulUeQs0Klog4TVHGzjPPTJqU2ziMQe)
 
+[Интерактивные графики: Plotly](https://colab.research.google.com/drive/1hyA-oT5a1PWMaPTxBxUaGvr8A3VKE5KD)
+
 # Python-labs
 
 [Lab: Pandas](https://colab.research.google.com/drive/1POLB2wdSHxvwRRwKhSuvZoZubiEltGUI)
