@@ -15,6 +15,8 @@
 
 [Colab, ООП, классы](https://colab.research.google.com/drive/1-iMzyzxBElsEOtAyW3OmwUs4a8twYH9n)
 
+[ООП](https://colab.research.google.com/drive/1DIxI_iJ4ddCFOi_ZftFtXPDi4Jg-biWE)
+
 [Colab, итераторы и генераторы, файлы](https://colab.research.google.com/drive/1FuCWOj78gOayFKIXbLM_UXz26nWQGjGp)
 
 [Colab, работа с табличными данными, Pandas](https://colab.research.google.com/drive/1tsulUeQs0Klog4TVHGzjPPTJqU2ziMQe)
