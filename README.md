@@ -5,6 +5,8 @@
 
 [Семинар 2, colab, основы Python: функции, dict, comprehension etc](https://colab.research.google.com/drive/1ht2CL7ol1xn86VEku8PZgRs8gfYDPktr)
 
+[Управление памятью](https://colab.research.google.com/drive/1GCS17wF22XkPE_OoLj8PkKUKr-b6hlr9)
+
 [Colab, области видимости](https://colab.research.google.com/drive/1SjYzNXFeEjBdvcgirSJUvTa28mQR8l53)
 
 [Colab, ООП, классы](https://colab.research.google.com/drive/1-iMzyzxBElsEOtAyW3OmwUs4a8twYH9n)
