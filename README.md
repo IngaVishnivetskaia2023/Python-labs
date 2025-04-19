@@ -11,7 +11,7 @@
 
 [Colab, итераторы и генераторы, файлы](https://colab.research.google.com/drive/1FuCWOj78gOayFKIXbLM_UXz26nWQGjGp)
 
-
+[Colab, работа с табличными данными, Pandas](https://colab.research.google.com/drive/1tsulUeQs0Klog4TVHGzjPPTJqU2ziMQe)
 
 # Python-labs
 
